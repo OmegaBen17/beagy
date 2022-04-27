@@ -1,0 +1,1 @@
+Bandit attack hits hero
