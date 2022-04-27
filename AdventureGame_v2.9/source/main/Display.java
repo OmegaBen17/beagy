@@ -17,7 +17,7 @@ import tile.TileManager;
 public class Display extends JPanel implements Runnable {
 
     // SCREEN SETTINGS
-
+//mivan github köcsög?!?!?!?!
     // Tile = originalTileSize x originalTileSize pixels
     final int originalTileSize = 16;
     final int scale = 4;
